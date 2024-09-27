@@ -1,0 +1,1 @@
+export const server_url='https://mp-server-my5n.onrender.com'
